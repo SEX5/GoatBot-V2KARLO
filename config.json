@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "YourBotNameHere",
+  "nickNameBot": "KARLOWORKS",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -20,12 +20,12 @@
   },
   "adminBot": [
     "", //Your UID here
-    "100083039411474"
+    "61571374393707"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474"
+      "61571374393707"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
